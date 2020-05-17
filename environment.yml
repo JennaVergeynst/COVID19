@@ -1,0 +1,24 @@
+name: work
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-learn
+  - jupyter
+  - matplotlib=3.1
+  - descartes
+  - geopandas
+  - pandas
+  - scipy
+  - python
+  - ipython
+  - notebook
+  - xlrd
+  - networkx
+  - bokeh
+  - jupyter_contrib_nbextensions
+  - mapclassify
+  - imagemagick
+  - ffmpeg
+prefix: /Applications/miniconda3/envs/work
+
