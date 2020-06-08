@@ -19,3 +19,6 @@ Folder containing python scripts with functions for use in the notebooks
 
 ## interim
 Folder in which to save edited or transformed data
+
+## figures
+Folder containing figures for output (e.g. maps etc.)
